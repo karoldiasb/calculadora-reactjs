@@ -54,3 +54,15 @@ button.primary {
   background-color: #ffeec2;
   color: #c49023;
 }
+.error {
+  color: red;
+}
+.history {
+  padding: 0 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 100px;
+  overflow-y: scroll;
+  margin-bottom: 8px;
+  text-align: right;
+}
